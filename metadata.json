@@ -1,0 +1,6 @@
+{
+  "name": "Punjab CRM Support AI",
+  "description": "A multi-agent AI system with Sales, Support, Escalation, CRM, and Manager agents configured for Chandigarh/Punjab businesses like Real Estate, Solar, and Consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
